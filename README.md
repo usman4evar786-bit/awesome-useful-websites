@@ -232,6 +232,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 
+- [Custom Spinner Wheel](https://customspinnerwheel.com/) - Free online spinner wheel — custom wheels, random picker, team generator. No signup needed.
 ### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
