@@ -337,6 +337,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 - [XLSXForm](https://xlsxform.com/) - Build forms and store all data entry in .xlsx file format.
 
+- [Custom Spinner Wheel](https://customspinnerwheel.com/) - Free spin-the-wheel tool: random name picker, team generator, Instagram comment picker and truth-or-dare wheel. No signup needed.
+
 ## DIY
 
 - [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
